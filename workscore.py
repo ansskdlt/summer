@@ -19,6 +19,7 @@ print(f'영어={eng}')
 print(f'합계={hap}')
 print(f'평균={avg}')
 print('오늘은 2월 5일 목요일')
+print('내일은 2월 6일 금요일')
 
 
 
